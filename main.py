@@ -1,5 +1,5 @@
 import time
-
+ 
 num = float(input('Initial value (To double):'))
 typeadd = float(input('Multiplier:'))
 i = 0
